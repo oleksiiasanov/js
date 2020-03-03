@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0814a2-3798-4457-b403-7c690b6f6f9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/firstJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/firstJs.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XlSGsHvzj1KxKyx4FHzy9y27dR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0814a2-3798-4457-b403-7c690b6f6f9b" name="Default Changelist" comment="" />
+      <created>1581619095304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581619095304</updated>
+      <workItem from="1581619096487" duration="2476000" />
+      <workItem from="1581952109464" duration="429000" />
+      <workItem from="1581952783889" duration="3341000" />
+      <workItem from="1581966064428" duration="306000" />
+      <workItem from="1581966466515" duration="99000" />
+      <workItem from="1581966606117" duration="415000" />
+      <workItem from="1581967452998" duration="204000" />
+      <workItem from="1581967765609" duration="631000" />
+      <workItem from="1581968532020" duration="131000" />
+      <workItem from="1581968685637" duration="468000" />
+      <workItem from="1581969413891" duration="217000" />
+    </task>
+    <task id="LOCAL-00001" summary="add firstJS+index.html and first commit via IDEA">
+      <created>1581961941299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581961941299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add firstJS+index.html and first commit via IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="add firstJS+index.html and first commit via IDEA" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581968793681">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581968793681" />
+    <state x="427" y="40" key="CommitChangelistDialog2" timestamp="1581961940917">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="427" y="40" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581961940917" />
+    <state x="278" y="159" key="SettingsEditor" timestamp="1581969397574">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="278" y="159" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581969397574" />
+    <state x="349" y="143" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1581953133814" />
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1581961954357">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581961954357" />
+  </component>
+</project>
